@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Why Iyangar Bakery’s Gift Packs Are the Perfect Expression of Love and...",
+    "text": "Finding the right way to express love, gratitude, and appreciation can be challenging. Iyangar Bakery’s Gifting rang...",
+    "image": "images/gifts.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Celebrate Festivals with Iyangar Bakery: Delicious Treats for Every Occasion",
+    "text": "Festivals bring joy, togetherness, and a touch of sweetness to our lives. At Iyangar Bakery, we understand the importance of making every...",
+    "image": "images/fest_cake.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Almond Oats Cookies from Iyangar Bakery: Healthy Can Be Tasty Too!",
+    "text": "When it comes to finding the perfect balance between health and flavor, Iyangar Bakery’s Almond Oats Cookies prove that you don’t...",
+    "image": "images/cookies.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Freshly Baked Breads That Make Every Meal Special",
+    "text": "Iyangar’s Bakery brings you soft, warm breads every day — perfect for sandwiches, toasts, and more.",
+    "image": "images/bread.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Cupcakes Full of Love and Flavor for All Occasions",
+    "text": "Celebrate birthdays or surprises with colorful and creamy cupcakes from Iyangar Bakery — they’re too cute to resist!",
+    "image": "images/cupcake.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Try Our Bestselling Khari Snacks and Rusk Today!",
+    "text": "Perfect with tea and coffee, our crunchy Kharis and Rusks are a hit with every age group.",
+    "image": "images/khari.jpg"
+  }
+]
